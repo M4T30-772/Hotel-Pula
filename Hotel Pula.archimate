@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Hotel Pula" id="id-8790980707ea4b26bd46b8538eac8d4a" version="5.0.0">
+  <folder name="Strategy" id="id-850dddca3eb14c19ab4291b910e56e90" type="strategy"/>
+  <folder name="Business" id="id-7662330b8a484d51b4ac293edbc82420" type="business"/>
+  <folder name="Application" id="id-0c31c7de3b414f7d91f9091bce4d08b2" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-736af713fd1a4c21852da564c46b14a0" type="technology"/>
+  <folder name="Motivation" id="id-342f0018079f422ab5a1c24145c709ed" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-a54ee14e0e644110816859194fb67883" type="implementation_migration"/>
+  <folder name="Other" id="id-c6452bde0f17472ead3c6480fe8e6a0c" type="other"/>
+  <folder name="Relations" id="id-0b47c74487784baa8616f98901cd31a7" type="relations"/>
+  <folder name="Views" id="id-35a9701e93494f939cf9a29615e6ac8d" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-0b5c61872573461398e0dab6aef02712"/>
+  </folder>
+</archimate:model>
